@@ -52,8 +52,14 @@
         <mxCell id="O_he93ySYUVRArU04d9i-37" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;font-size: 8.47pt;&quot;&gt;基于P-CMM的A公司绩效管理系统模型&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="282" y="380" width="236" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="O_he93ySYUVRArU04d9i-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O_he93ySYUVRArU04d9i-38" target="O_he93ySYUVRArU04d9i-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O_he93ySYUVRArU04d9i-38" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;font-size: 8.47pt;&quot;&gt;基于P-CMM的A公司绩效管理系统模型的应用&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="262" y="460" width="276" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_he93ySYUVRArU04d9i-45" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;研究总结与未来展望&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="321" y="540" width="158" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
